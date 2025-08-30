@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "first_name": "Alice",
+      "last_name": "Silva",
+      "zipcode": "12345-678"
+    },
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce",
+      "first_name": "Bruno",
+      "last_name": "Oliveira",
+      "zipcode": "23456-789"
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce",
+      "first_name": "Carla",
+      "last_name": "Santos",
+      "zipcode": "34567-890"
+    },
+    {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce",
+      "first_name": "Daniel",
+      "last_name": "Pereira",
+      "zipcode": "45678-901"
+    },
+    {
+      "username": "error_user",
+      "password": "secret_sauce",
+      "first_name": "Elisa",
+      "last_name": "Costa",
+      "zipcode": "56789-012"
+    },
+    {
+      "username": "visual_user",
+      "password": "secret_sauce",
+      "first_name": "Felipe",
+      "last_name": "Rodrigues",
+      "zipcode": "67890-123"
+    }
+  ]
+}
